@@ -19,7 +19,7 @@ follow the url
 
 search for any city
 
-[URL](https://yohans14.github.io//)
+[URL](https://yohans14.github.io/Daily_Planner/)
 
 ## Snapshot
 
