@@ -17,7 +17,7 @@ follow the url
 
 ## Usage
 
-search for any city
+schedule your day!
 
 [URL](https://yohans14.github.io/Daily_Planner/)
 
