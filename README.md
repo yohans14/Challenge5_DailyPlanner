@@ -1,16 +1,40 @@
-# Daily planner 
+#Daily Planner
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+## Description
 
+This is an application for those with a busy schedule to add an important events to a daily planner in hourly manne.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Snapshot](#snapshot)
+- [Questions](#questions)
+
+## Installation
+
+follow the url
+
+## Usage
+
+search for any city
+
+[URL](https://yohans14.github.io//)
+
+## Snapshot
+
+![project screenshot](./assets/images/dailyplanner.png)
+
+## Contributing
+
+If you like to contribut for this project please follow The Contributor Convenant guidelines.
+
+## Questions
+
+If you have any questions.
+
+Yohans Getaneh
+
+GitHub: https://github.com/yohans14
+
+Email: yohans14@yahoo.com
